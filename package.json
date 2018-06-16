@@ -1,5 +1,5 @@
 {
-  "name": "foxtrot-glitch-me",
+  "name": "foxtrot",
   "version": "0.0.1",
   "description": "A Voting Application.",
   "main": "server.js",
