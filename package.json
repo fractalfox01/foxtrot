@@ -1,0 +1,28 @@
+{
+  "name": "foxtrot-glitch-me",
+  "version": "0.0.1",
+  "description": "A Voting Application.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js 3000"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "connect-mongo":"^2.0.1",
+    "express-session":"^1.15.6",
+    "helmet":"^3.12.1",
+    "passport":"^0.4.0"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}

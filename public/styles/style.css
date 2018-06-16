@@ -1,0 +1,35 @@
+header{
+  width: 75vw;
+  height: auto;
+  margin-left: 10vw;
+  margin-right: 10vw;
+  background-color: #ccc;
+  font-size: 4em;
+  text-align: center;
+}
+fieldset{
+  width: 30vw;
+  height: 30vh;
+
+}
+.row-wrap{
+  display: flex;
+  margin-left: 20vw;
+}
+#titleGithub{
+  height: 1.2em;
+  order: 0;
+  background-color: #fff;
+}
+#gHub{
+  margin-left: 15px;
+  width: 1.5em;
+}
+#titleGmail{
+  height: 1.2em;
+  order: 0;
+  background-color: #fff;
+}
+#gMail{
+  position: inherit;
+}
